@@ -4,6 +4,7 @@
 
 int main(){
 int i,tam,c,*v;
+struct arv();
 
 printf("Quantidade de numeros aleatorios: ");
 scanf("%d",&(tam));
